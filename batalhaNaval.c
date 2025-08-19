@@ -51,4 +51,8 @@ int main() {
     imprimirTabuleiro(tabuleiro);
 
     return 0;
+
+    printf("novo commit/n");
+
+
 }
